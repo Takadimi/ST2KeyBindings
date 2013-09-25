@@ -1,0 +1,10 @@
+[
+
+{ "keys": ["ctrl+t"], "command": "side_bar_new_file2" },
+{ "keys": ["f2"], "command": "side_bar_rename" },
+{ "keys": ["ctrl+alt+f"], "command": "side_bar_find_files_path_containing" },
+{ "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"}},			
+{ "keys": ["alt+up"], "command": "swap_line_up" },
+{ "keys": ["alt+down"], "command": "swap_line_down" },
+{ "keys": ["super+alt+down"], "command": "duplicate_line" }
+]
